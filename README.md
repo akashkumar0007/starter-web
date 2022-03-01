@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work.
 please don't take it seriously.
-Adding a line for Rebasing examplwe
+Adding a line for Rebasing examplwe,
+more changes from my bfeature branch
 
 ## Purpose
 
