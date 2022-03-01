@@ -14,3 +14,6 @@ Some changes again.
 
 ## Testing 
 Making some changes for the motive of testing.
+
+## Copyright
+Don't copy and write from others.
