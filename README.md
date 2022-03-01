@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 please don't take it seriously.
+Adding a line for Rebasing examplwe
 
 ## Purpose
 
