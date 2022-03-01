@@ -8,6 +8,7 @@ more changes from my bfeature branch
 ## Purpose
 
 Sample website with plenty of files for demos
+How much work should I do.
 
 ## Deployment
 Updating this inside the master branch.
